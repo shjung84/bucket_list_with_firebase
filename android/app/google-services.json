@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "165261630018",
+    "project_id": "bucketlistwithfirebase-cd530",
+    "storage_bucket": "bucketlistwithfirebase-cd530.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165261630018:android:5e7914a8e2debb9af9ebdb",
+        "android_client_info": {
+          "package_name": "com.example.bucket_list_with_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165261630018-agt2dlj97sae81otd9digshc2236o1u6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCydmXnNjHVNqGOzTn5UK3yDsksIyd30yU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165261630018-agt2dlj97sae81otd9digshc2236o1u6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
